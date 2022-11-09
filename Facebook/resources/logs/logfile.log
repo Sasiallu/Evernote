@@ -1,0 +1,76 @@
+[INFO ][07-Nov-2022 14:26:48 PM] Main.initialization:(63) - maximizing the Browser Window
+[INFO ][07-Nov-2022 14:26:50 PM] Main.initialization:(67) - getting url
+[INFO ][07-Nov-2022 14:27:33 PM] Main.initialization:(63) - maximizing the Browser Window
+[INFO ][07-Nov-2022 14:27:35 PM] Main.initialization:(67) - getting url
+[INFO ][07-Nov-2022 14:27:35 PM] HomePageTest.setup:(32) - setting up the Homepage
+[INFO ][07-Nov-2022 14:27:37 PM] Main.initialization:(63) - maximizing the Browser Window
+[INFO ][07-Nov-2022 14:27:39 PM] Main.initialization:(67) - getting url
+[INFO ][07-Nov-2022 14:27:39 PM] HomePageTest.setup:(32) - setting up the Homepage
+[INFO ][07-Nov-2022 14:46:13 PM] Main.initialization:(63) - maximizing the Browser Window
+[INFO ][07-Nov-2022 14:46:14 PM] Main.initialization:(67) - getting url
+[INFO ][07-Nov-2022 15:31:35 PM] Main.initialization:(63) - maximizing the Browser Window
+[INFO ][07-Nov-2022 15:31:38 PM] Main.initialization:(67) - getting url
+[INFO ][07-Nov-2022 15:31:38 PM] HomePageTest.setup:(34) - setting up the Homepage
+[INFO ][07-Nov-2022 15:31:40 PM] Main.initialization:(63) - maximizing the Browser Window
+[INFO ][07-Nov-2022 15:31:42 PM] Main.initialization:(67) - getting url
+[INFO ][07-Nov-2022 15:31:42 PM] HomePageTest.setup:(34) - setting up the Homepage
+[INFO ][07-Nov-2022 15:31:58 PM] Main.initialization:(63) - maximizing the Browser Window
+[INFO ][07-Nov-2022 15:32:01 PM] Main.initialization:(67) - getting url
+[INFO ][07-Nov-2022 15:41:45 PM] Main.initialization:(63) - maximizing the Browser Window
+[INFO ][07-Nov-2022 15:41:47 PM] Main.initialization:(67) - getting url
+[INFO ][07-Nov-2022 15:41:47 PM] HomePageTest.setup:(34) - setting up the Homepage
+[INFO ][07-Nov-2022 15:41:49 PM] Main.initialization:(63) - maximizing the Browser Window
+[INFO ][07-Nov-2022 15:41:51 PM] Main.initialization:(67) - getting url
+[INFO ][07-Nov-2022 15:41:51 PM] HomePageTest.setup:(34) - setting up the Homepage
+[INFO ][07-Nov-2022 15:44:16 PM] Main.initialization:(63) - maximizing the Browser Window
+[INFO ][07-Nov-2022 15:44:18 PM] Main.initialization:(67) - getting url
+[INFO ][07-Nov-2022 15:52:02 PM] Main.initialization:(63) - maximizing the Browser Window
+[INFO ][07-Nov-2022 15:52:04 PM] Main.initialization:(67) - getting url
+[INFO ][07-Nov-2022 15:52:04 PM] HomePageTest.setup:(34) - setting up the Homepage
+[INFO ][07-Nov-2022 15:52:06 PM] Main.initialization:(63) - maximizing the Browser Window
+[INFO ][07-Nov-2022 15:52:08 PM] Main.initialization:(67) - getting url
+[INFO ][07-Nov-2022 15:52:08 PM] HomePageTest.setup:(34) - setting up the Homepage
+[INFO ][07-Nov-2022 15:54:42 PM] Main.initialization:(63) - maximizing the Browser Window
+[INFO ][07-Nov-2022 15:54:44 PM] Main.initialization:(67) - getting url
+[INFO ][07-Nov-2022 15:59:46 PM] Main.initialization:(63) - maximizing the Browser Window
+[INFO ][07-Nov-2022 15:59:48 PM] Main.initialization:(67) - getting url
+[INFO ][07-Nov-2022 15:59:48 PM] HomePageTest.setup:(34) - setting up the Homepage
+[INFO ][07-Nov-2022 15:59:50 PM] Main.initialization:(63) - maximizing the Browser Window
+[INFO ][07-Nov-2022 15:59:52 PM] Main.initialization:(67) - getting url
+[INFO ][07-Nov-2022 15:59:52 PM] HomePageTest.setup:(34) - setting up the Homepage
+[INFO ][07-Nov-2022 16:24:38 PM] Main.initialization:(63) - maximizing the Browser Window
+[INFO ][07-Nov-2022 16:24:42 PM] Main.initialization:(67) - getting url
+[INFO ][07-Nov-2022 16:24:42 PM] HomePageTest.setup:(34) - setting up the Homepage
+[INFO ][07-Nov-2022 16:24:44 PM] Main.initialization:(63) - maximizing the Browser Window
+[INFO ][07-Nov-2022 16:24:48 PM] Main.initialization:(67) - getting url
+[INFO ][07-Nov-2022 16:24:48 PM] HomePageTest.setup:(34) - setting up the Homepage
+[INFO ][07-Nov-2022 16:28:13 PM] Main.initialization:(63) - maximizing the Browser Window
+[INFO ][07-Nov-2022 16:28:16 PM] Main.initialization:(67) - getting url
+[INFO ][07-Nov-2022 16:28:16 PM] HomePageTest.setup:(34) - setting up the Homepage
+[INFO ][07-Nov-2022 16:28:18 PM] Main.initialization:(63) - maximizing the Browser Window
+[INFO ][07-Nov-2022 16:28:21 PM] Main.initialization:(67) - getting url
+[INFO ][07-Nov-2022 16:28:21 PM] HomePageTest.setup:(34) - setting up the Homepage
+[INFO ][07-Nov-2022 16:28:23 PM] Main.initialization:(63) - maximizing the Browser Window
+[INFO ][07-Nov-2022 16:28:27 PM] Main.initialization:(67) - getting url
+[INFO ][07-Nov-2022 16:28:27 PM] HomePageTest.setup:(34) - setting up the Homepage
+[INFO ][07-Nov-2022 16:28:27 PM] HomePageTest.verifysignin:(63) - signin button verification
+[INFO ][07-Nov-2022 16:29:29 PM] Main.initialization:(63) - maximizing the Browser Window
+[INFO ][07-Nov-2022 16:29:33 PM] Main.initialization:(67) - getting url
+[INFO ][07-Nov-2022 16:29:33 PM] HomePageTest.setup:(34) - setting up the Homepage
+[INFO ][07-Nov-2022 16:29:35 PM] Main.initialization:(63) - maximizing the Browser Window
+[INFO ][07-Nov-2022 16:29:39 PM] Main.initialization:(67) - getting url
+[INFO ][07-Nov-2022 16:29:39 PM] HomePageTest.setup:(34) - setting up the Homepage
+[INFO ][07-Nov-2022 16:29:41 PM] Main.initialization:(63) - maximizing the Browser Window
+[INFO ][07-Nov-2022 16:29:44 PM] Main.initialization:(67) - getting url
+[INFO ][07-Nov-2022 16:29:44 PM] HomePageTest.setup:(34) - setting up the Homepage
+[INFO ][07-Nov-2022 16:29:45 PM] HomePageTest.verifysignin:(69) - signin button verification
+[INFO ][07-Nov-2022 16:40:19 PM] Main.initialization:(63) - maximizing the Browser Window
+[INFO ][07-Nov-2022 16:40:22 PM] Main.initialization:(67) - getting url
+[INFO ][07-Nov-2022 16:42:02 PM] Main.initialization:(63) - maximizing the Browser Window
+[INFO ][07-Nov-2022 16:42:06 PM] Main.initialization:(67) - getting url
+[INFO ][08-Nov-2022 09:43:53 AM] Main.initialization:(63) - maximizing the Browser Window
+[INFO ][08-Nov-2022 09:43:56 AM] Main.initialization:(67) - getting url
+[INFO ][08-Nov-2022 10:07:20 AM] Main.initialization:(63) - maximizing the Browser Window
+[INFO ][08-Nov-2022 10:07:24 AM] Main.initialization:(67) - getting url
+[INFO ][08-Nov-2022 13:59:22 PM] Main.initialization:(65) - maximizing the Browser Window
+[INFO ][08-Nov-2022 13:59:26 PM] Main.initialization:(69) - getting url
